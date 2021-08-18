@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=synthwave" alt="my github stats" width="400px" height="177px"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=synthwave" alt="my github stats" width="400px" height="177px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 <!--
 **laradocs/laradocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
