@@ -1,6 +1,6 @@
 <p style="display:flex; justify-content: space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=synthwave" alt="my github stats" width="400px" height="177px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laradocs&layout=compact&theme=synthwave" alt="languages" width="400px" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laradocs&layout=compact&theme=synthwave" alt="languages" width="400px" height="177px">
 </p>
 
 <!--
