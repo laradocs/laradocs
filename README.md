@@ -1,7 +1,5 @@
-<p style="display: flex; juestify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=synthwave" alt="my github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laradocs&layout=compact" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laradocs&layout=compact&theme=synthwave" alt="languages" />
 
 <!--
 **laradocs/laradocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
