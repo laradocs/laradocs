@@ -1,5 +1,7 @@
 ### Hi there &#128075;
 
+&#129395; Welcome to my GitHub profile!
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=synthwave)
 
 <!--
