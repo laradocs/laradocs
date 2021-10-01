@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there &#128075;&#127995;
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=synthwave)
 
