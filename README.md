@@ -2,7 +2,7 @@
 
 &#129395; Welcome to my GitHub profile!
 
-[![My GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=laradocs&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=laradocs&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 <!--
 **laradocs/laradocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
